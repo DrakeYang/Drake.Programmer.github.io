@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: a man who studying iOS developing 
 ---
+Hi. I am Drake Yang. 
 
-My name is Inigo Montoya. I have the following qualities:
+Studying iOS developing to become a pro.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- love automation
+  * basically I am the lazy man.
+  * I love and enjoy automaion.
+  
+- want to be a pro.
+  * if it become true, it will be changed to better pro.
 
-What else do you need?
+iOS 공부하고 있습니다.
+모두들 화이팅.
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+2018.03.02 ~ now : studying iOS in CodeSquad
